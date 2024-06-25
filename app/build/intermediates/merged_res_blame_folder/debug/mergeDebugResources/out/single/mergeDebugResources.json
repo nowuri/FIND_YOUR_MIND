@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_img6.png.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\img6.png"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\layout_activity_friend_choose.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\layout\\activity_friend_choose.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_main_photo.jpg.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\main_photo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_call_end.png.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\call_end.png"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_img3.png.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\img3.png"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_button_round2.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\button_round2.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_back_rounddown.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\back_rounddown.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\layout_activity_connecting.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\layout\\activity_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_img5.png.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\img5.png"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_back_roundup.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\back_roundup.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_img.png.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_button_round.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\button_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\layout_activity_pop_up_message.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\layout\\activity_pop_up_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_calling.png.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\calling.png"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_popup_round.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\popup_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\layout_item_music.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\layout\\item_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_img2.png.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\img2.png"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\layout_activity_playlist.xml.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\layout\\activity_playlist.xml"
+    },
+    {
+        "merged": "com.example.find_your_mind.app-debug-4:/layout_activity_pop_up_message.xml.flat",
+        "source": "com.example.find_your_mind.app-main-6:/layout/activity_pop_up_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-debug-4:\\drawable_img4.png.flat",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\drawable\\img4.png"
+    }
+]

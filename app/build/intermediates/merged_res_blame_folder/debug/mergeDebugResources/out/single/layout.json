@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.find_your_mind.app-mergeDebugResources-3:/layout/activity_pop_up_message.xml",
+        "source": "com.example.find_your_mind.app-main-6:/layout/activity_pop_up_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-mergeDebugResources-3:\\layout\\item_music.xml",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\layout\\item_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-mergeDebugResources-3:\\layout\\activity_friend_choose.xml",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\layout\\activity_friend_choose.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-mergeDebugResources-3:\\layout\\activity_connecting.xml",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\layout\\activity_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-mergeDebugResources-3:\\layout\\activity_pop_up_message.xml",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\layout\\activity_pop_up_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-mergeDebugResources-3:\\layout\\activity_playlist.xml",
+        "source": "C:\\Users\\IT공학\\.gradle\\daemon\\8.6\\com.example.find_your_mind.app-main-6:\\layout\\activity_playlist.xml"
+    }
+]
