@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9a1141fb1c4a047bda168f786ba446b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - character1: {fileID: 919132149155446097, guid: 58de71bee9eb841dd9b596dd492b8e65, type: 3}
+  - character2: {fileID: 919132149155446097, guid: 374796a8d07ea19479ecbadb19c7f66f, type: 3}
+  - button1: {instanceID: 0}
+  - button2: {instanceID: 0}
+  - wallpaper: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
