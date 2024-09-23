@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Playlist.PlaylistActivity">
+
+    <LinearLayout
+        android:id="@+id/scollview"
+        android:layout_width="match_parent"
+        android:layout_height="650dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:id="@+id/linearlayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="350dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="40dp"
+                    android:background="@drawable/back_roundup"
+                    android:text=" 눈송이"
+                    android:textColor="@color/black"
+                    android:textSize="20pt"
+                    android:textStyle="bold|normal"
+                    app:layout_constraintLeft_toLeftOf="@id/parent"
+                    app:layout_constraintRight_toRightOf="@id/parent"
+                    app:layout_constraintTop_toTopOf="@id/parent" />
+
+                <TextView
+                    android:id="@+id/feeling"
+                    android:layout_width="350dp"
+                    android:layout_height="60dp"
+                    android:layout_marginLeft="35dp"
+                    android:background="@drawable/back_rounddown"
+                    android:text=" 최근 기분: "
+                    android:textColor="@color/black"
+                    android:textSize="17pt"
+                    android:textStyle="bold|normal"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/name" />
+
+                <TextView
+                    android:id="@+id/playlist_name"
+                    android:layout_width="350dp"
+                    android:layout_height="45dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="25dp"
+                    android:layout_marginBottom="15dp"
+                    android:text="오늘의 기분에 맞는 플레이리스트🎵"
+                    android:textColor="@color/black"
+                    android:textSize="10pt"
+                    android:textStyle="bold"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/feeling" />
+
+                <ListView
+                    android:id="@+id/playlist"
+                    android:layout_width="350dp"
+                    android:layout_height="180dp"
+                    android:layout_marginLeft="35dp"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/playlist_name" />
+
+                <TextView
+                    android:id="@+id/video_name"
+                    android:layout_width="350dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginBottom="15dp"
+                    android:text="오늘의 기분을 정리하는 명상 영상"
+                    android:textColor="@color/black"
+                    android:textSize="10pt"
+                    android:textStyle="bold"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/playlist" />
+
+                <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+                    android:id="@+id/video"
+                    android:layout_width="350dp"
+                    android:layout_height="180dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginBottom="50dp"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/video_name"
+                    app:videoId="dZewQEbQQM0"
+                    app:autoPlay="false"/>
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/calling"
+        android:layout_width="380dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="1pt"
+        android:background="@drawable/button_round"
+        android:text="       친구와 전화하러 가기"
+        android:textColor="@color/black"
+        android:textSize="13pt"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/scollview" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="380dp"
+        android:layout_height="70dp"
+        android:orientation="horizontal"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/scollview">
+
+        <ImageView
+            android:id="@+id/call_image"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="5pt"
+            android:layout_marginTop="3pt"
+            android:src="@drawable/calling" />
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

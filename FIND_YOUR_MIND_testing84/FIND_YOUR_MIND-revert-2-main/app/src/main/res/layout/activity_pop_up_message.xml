@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="300dp"
+    android:layout_height="200dp"
+    tools:context=".Playlist.PopUpMessage"
+    android:background="@drawable/popup_round">
+
+    <TextView
+        android:id="@+id/string1"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="요즘도 계속 우울한가요?"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="8pt"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:id="@+id/string2"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="주변인에게 기대보는건 어떨까요?"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="8pt"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/string1"
+        android:layout_marginLeft="10dp"/>
+
+    <TextView
+        android:id="@+id/number1"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="· 000: 010-1234-5898"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="8pt"
+        android:clickable="true"
+        android:focusable="true"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/string2"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"/>
+
+    <TextView
+        android:id="@+id/number2"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:text="· 상담사: 010-2345-2345"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="8pt"
+        android:clickable="true"
+        android:focusable="true"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/number1"
+        android:layout_marginLeft="10dp"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
